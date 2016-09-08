@@ -1,0 +1,9 @@
+C:\Users\Leon\Desktop\C_\C#\text_to_speech\bin\Debug\text_to_speech.exe
+C:\Users\Leon\Desktop\C_\C#\text_to_speech\bin\Debug\text_to_speech.pdb
+C:\Users\Leon\Desktop\C_\C#\text_to_speech\obj\x86\Debug\text_to_speech.csprojResolveAssemblyReference.cache
+C:\Users\Leon\Desktop\C_\C#\text_to_speech\obj\x86\Debug\text_to_speech.Form1.resources
+C:\Users\Leon\Desktop\C_\C#\text_to_speech\obj\x86\Debug\text_to_speech.Properties.Resources.resources
+C:\Users\Leon\Desktop\C_\C#\text_to_speech\obj\x86\Debug\text_to_speech.csproj.GenerateResource.Cache
+C:\Users\Leon\Desktop\C_\C#\text_to_speech\obj\x86\Debug\text_to_speech.exe
+C:\Users\Leon\Desktop\C_\C#\text_to_speech\obj\x86\Debug\text_to_speech.pdb
+C:\Users\Leon\Desktop\C_\C#\text_to_speech\bin\Debug\text_to_speech.exe.config
